@@ -9,9 +9,8 @@
 - 🔧 Widget Garden (embeds for platforms like notion)
 
 <img src="https://64.media.tumblr.com/36222c7ead166b9b2103f74132aeb462/tumblr_p4ycw5dZkw1qzm8dwo1_500.gif" width="18" /> Player Stats
-- 🏆 Lvl 32
+- 🏆 Lvl 33
 - 🎀 she/her
-- 🇺🇸 American
 - ⌨️ TypeScript/React
 
 
